@@ -1,6 +1,6 @@
 #### Benchmarking 
 |Dataset| Identify Acuracy|
-|:---:|:---:|:---:|
+|:---:|:---:|
 | LFW| 99.46%|
 | ARface-scarf (protocol2)| 99.17%|
 | ARface-scarf (protocol1)| 100%|
