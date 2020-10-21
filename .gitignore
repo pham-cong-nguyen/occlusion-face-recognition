@@ -1,0 +1,6 @@
+.vscode/*
+checkpoints/*
+logs/*
+**/__pycache__/*
+**/*.tfrecord
+data 
